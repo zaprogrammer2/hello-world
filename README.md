@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello
+
+I am Za Programmer, I want to become a great programmer.
